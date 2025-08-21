@@ -1,0 +1,10 @@
+# Handle all text files
+* text=auto
+
+# TypeScript/TSX
+*.ts text eol=lf
+*.tsx text eol=lf
+
+# Ignore build files (optional)
+.next/** -text
+node_modules/** -text
