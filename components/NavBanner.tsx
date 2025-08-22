@@ -4,8 +4,8 @@ import React from 'react';
 const NavBanner = () => {
   return (
     <div style={{ 
-      background: '#333', 
-      color: '#fff', 
+      background: 'red', 
+      color: 'white', 
       padding: '10px', 
       display: 'flex', 
       gap: '10px' 
